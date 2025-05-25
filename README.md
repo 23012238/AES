@@ -1,5 +1,7 @@
 
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
+## NAME:S.L.NARASIMHA REDDY
+## REG NO:212223040214
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -22,7 +24,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "WELCOME";
+    char url[] = "NARASIMHA";
     char key[] = "secretkey";
     
     printf("Original text: %s\n", url);
@@ -36,7 +38,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Screenshot 2025-05-19 194312](https://github.com/user-attachments/assets/6b084cb9-1ebc-4eb7-b4f3-23acd0dc57b1)
+![image](https://github.com/user-attachments/assets/b5147004-8ea2-4eba-b214-49146019900a)
 
 # RESULT:
 The program for advanced-encryption-standard algorithm was successful
